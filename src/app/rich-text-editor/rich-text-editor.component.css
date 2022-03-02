@@ -1,0 +1,15 @@
+p {
+    font-family: Lato;
+  }
+  
+  button#word-btn {
+    margin-top: 24px;
+    background-color: steelblue;
+    border: none;
+    padding: 8px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+  }
+  
